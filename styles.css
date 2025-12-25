@@ -1,0 +1,22 @@
+body {
+    background-color: thistle;
+    font-family: "Arial", sans-serif;
+    text-align: center;
+}
+ul {
+    color: rgb(126, 3, 126);
+}
+.tush {
+    color: brown;
+}
+.border {
+    border-style: dotted;
+    border-color: cornflowerblue;
+    border-width: 9px;
+    background-color: greenyellow;
+    text-align: center;
+    list-style: inside;
+    width: 50%;
+    min-width: 300px;
+    margin: 0 auto;
+}
